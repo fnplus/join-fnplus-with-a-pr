@@ -20,7 +20,7 @@ One possible way is to tell us through an issue [here](https://github.com/fnplus
 
 # Contact
 
-One can get in touch with us by opening an issue, sending us an [email](mailto:support@fnplus.xyz) or discussing on our [Discourse forum](https://fnplus.xyz) [Needs to update]
+One can get in touch with us by opening an issue, sending us an [email](mailto:support@fnplus.tech) or discussing on our [Slack forum](https://join.slack.com/t/fnplus/shared_invite/enQtNTQyNTM1NDI2NDIyLTM2NTE2YTFmN2FiNjFmN2M2ODRhY2ViY2QwMjY5NDRlMzhiZDJlNWFlOWFiZWRjNzQ1YjVmYTFjNDcwNDY4MTQ)
 
 # Guidelines
 
