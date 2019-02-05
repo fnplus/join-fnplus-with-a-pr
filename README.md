@@ -35,4 +35,4 @@ We are working on a lot of stuff and we will help you to find an appropriate pla
 
 
 
-This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/join-fnplus.svg)](http://hits.dwyl.io/fnplus/join-fnplus)people in last few months!
+This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/join-fnplus.svg)](http://hits.dwyl.io/fnplus/join-fnplus) people in last few months!
