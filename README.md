@@ -15,7 +15,9 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/join-fnplus.
 
 The community is open to everyone with a demonstrated interest in collaborating on best practices.
 
-We’re starting with a small, but growing, group of contributors to ensure a good experience. If you’d like to join, let us know, and we’ll review it as we add more members. :rocket: 
+We’re starting with a small, but growing, group of contributors to ensure a good experience. If you’d like to join, let us know, and we’ll review it as we add more members. 
+
+One possible way is to tell us through an issue here. Contributing to one of our missions is the best way to express your interest. You may, also, email us or get in touch at Slack. The list is endless. 🚀
 
 # Contact
 
