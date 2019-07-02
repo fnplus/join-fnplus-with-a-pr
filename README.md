@@ -41,7 +41,7 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 
 ## Contact
 
-One can get in touch with us by opening an issue, sending us an [email](mailto:support@fnplus.tech) or discussing on our [Slack forum](https://join.slack.com/t/fnplus/shared_invite/enQtNjQ0OTU4MzQxNTIxLTk3MTBkY2QxNGE4ZDExYjdhOWU1M2NlODk2ODZjNTEzOWE0ZTAzYTVkMzlmMjczZWYxMzFiZjcwMjc0M2UxYzc)
+One can get in touch with us by opening an issue, sending us an [email](mailto:support@fnplus.tech) or discussing on our Slack forum. The team will reach out to you once you send a PR.
 
 ## Top Contributors
 
