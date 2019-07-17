@@ -39,6 +39,17 @@ One possible way is to tell us through an issue here. Contributing to one of our
 
 Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## Request for Proposals
+
+If you are interested in learning about something, you can also submit a Request for Proposal (RFP). This helps identify areas where the community as a whole would like to learn about specific topics. This makes it easy for other individuals who have expertise in the topic to submit a proposal that might address this need.
+
+The [Proposals](https://github.com/fnplus/chennai-jams/blob/master/PROPOSALS.md) page also has information on how to submit RFPs.
+
+## Volunteering & Sponsorship
+
+- If you'd like to **[volunteer](https://github.com/fnplus/chennai-jams/blob/master/VOLUNTEERS.md)** or engage with existing volunteers who run StudyJams-Chennai on any aspect that generally concerns the StudyGroup,
+- We are looking for **[sponsors](https://github.com/fnplus/chennai-jams/blob/master/SPONSORS.md)** to join us to have better community reach and impact.
+
 ## Contact
 
 One can get in touch with us by opening an issue, sending us an [email](mailto:support@fnplus.tech) or discussing on our Slack forum. The team will reach out to you once you send a PR.
