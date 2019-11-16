@@ -11,7 +11,7 @@ Java\
 Android Development\
 Web Development\
 Problem Solving\
-Debugging\
+Debugging
 
 ## Projects
  Head to: https://github.com/smv1999 and https://www.linkedin.com/in/s-m-vaidhyanathan-241457171/ to view my projects 
