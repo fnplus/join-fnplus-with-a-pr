@@ -19,8 +19,8 @@ Building powerful webapps, Machine Learning/AI, Full Stack developer
 
 
 ### Projects
-- Full Stack my Book reads app [github-link](https://github.com/ThatDevCoder/myreads-react-udacity)
-- SEA-System-For-Emergency-Alerts[github-link](https://github.com/ThatDevCoder/SEA-System-For-Emergency-Alerts)
+- [Full Stack my Book reads app ] (https://github.com/ThatDevCoder/myreads-react-udacity)
+- [SEA-System-For-Emergency-Alerts ] (https://github.com/ThatDevCoder/SEA-System-For-Emergency-Alerts)
 
 ```
 
