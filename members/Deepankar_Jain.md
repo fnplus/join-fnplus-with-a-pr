@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 -->
+- I Dont Know Anything, I am noober than Noob.
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning nothing
 - 👯 I’m looking to collaborate on everything 
