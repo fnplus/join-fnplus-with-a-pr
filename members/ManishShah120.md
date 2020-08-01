@@ -4,10 +4,10 @@
 A Data Science Enthusiast, currently pursuing B.Tech in CSE discipline . My field of interests are DL/ML, App/Web Development and DevOPs. I enjoy solving problems with new technologies. In my bare time I try to contribute to the tech community with Articles and Blogs on Medium.
 
 ## Skills
-**Languages**- Python, C&C++, HTML, CSS, DART
-**Operations**- Git, GitHub, Docker
-**ML/DL Frameworks**- PyTorch, Sci-kit Learn, pandas, numpy, matplotlib, seaborn etc.
-**Soft skills**- Entrepreneurship, Leadership, Public Speaking
+**Languages**- Python, C&C++, HTML, CSS, DART<br>
+**Operations**- Git, GitHub, Docker<br>
+**ML/DL Frameworks**- PyTorch, Sci-kit Learn, pandas, numpy, matplotlib, seaborn etc.<br>
+**Soft skills**- Entrepreneurship, Leadership, Public Speaking<br>
 ```If any of the above skills fits your need I would love to collaborate```
 
 ## Projects
