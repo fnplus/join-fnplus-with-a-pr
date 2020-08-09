@@ -41,12 +41,12 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 
 If you are interested in learning about something, you can also submit a Request for Proposal (RFP). This helps identify areas where the community as a whole would like to learn about specific topics. This makes it easy for other individuals who have expertise in the topic to submit a proposal that might address this need.
 
-The [Proposals](https://github.com/fnplus/chennai-jams/blob/master/PROPOSALS.md) page also has information on how to submit RFPs.
+The [Proposals](https://github.com/fnplus/join-fnplus-with-a-prs/blob/master/PROPOSALS.md) page also has information on how to submit RFPs.
 
 ## Volunteering & Sponsorship
 
-- If you'd like to **[volunteer](https://github.com/fnplus/chennai-jams/blob/master/VOLUNTEERS.md)** or engage with existing volunteers who run StudyJams-Chennai on any aspect that generally concerns the StudyGroup,
-- We are looking for **[sponsors](https://github.com/fnplus/chennai-jams/blob/master/SPONSORS.md)** to join us to have better community reach and impact.
+- If you'd like to **[volunteer](https://github.com/fnplus/join-fnplus-with-a-pr/blob/master/VOLUNTEERS.md)** or engage with existing volunteers who run StudyJams-Chennai on any aspect that generally concerns the StudyGroup,
+- We are looking for **[sponsors](https://github.com/fnplus/join-fnplus-with-a-pr/blob/master/SPONSORS.md)** to join us to have better community reach and impact.
 
 ## Contact
 
