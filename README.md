@@ -4,20 +4,18 @@ Our sole mission is to help you recognize your potential :muscle: and purpose :m
 
 Some of our core beliefs are:
 
+* Help people to reach their full potential
 * To create a safe space for free exchange of ideas
 * Reduce the time spend on searching and increase the time spend on learning, discussing and socializing
-* Help people to reach their full potential
-* To create a community where everyone can contribute irrespective of any factor
+* To create a community where everyone can contribute irrespective of their location in the world
 
 This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/join-fnplus.svg)](http://hits.dwyl.io/fnplus/join-fnplus) people!
 
 ## How do I join?
 
-The community is open to everyone with a demonstrated interest in collaborating on best practices.
+We’re starting with a small, but growing, group of contributors to ensure a good experience. If you’d like to join, let us know, and we’ll make sure to include you :)
 
-We’re starting with a small, but growing, group of contributors to ensure a good experience. If you’d like to join, let us know, and we’ll review it as we add more members. 
-
-One possible way is to tell us through an issue here. Contributing to one of our missions is the best way to express your interest. You may, also, email us or get in touch at Slack. The list is endless. 🚀
+One possible way is to tell us through an issue here. Contributing to one of our missions is the best way to express your interest. You may, also, email us or get in touch at Telegram. The list is endless. 🚀
 
 ## Instructions
 
@@ -35,7 +33,7 @@ One possible way is to tell us through an issue here. Contributing to one of our
 
 - Wait for PR to merge
 
-- Celebrate !
+- Celebrate!
 
 Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -52,7 +50,7 @@ The [Proposals](https://github.com/fnplus/chennai-jams/blob/master/PROPOSALS.md)
 
 ## Contact
 
-One can get in touch with us by opening an issue, sending us an [email](mailto:support@fnplus.tech) or discussing on our Slack forum. The team will reach out to you once you send a PR.
+One can get in touch with us by opening an issue, sending us an [email](mailto:hellofnplus@gmail.com) or discussing on our Slack forum. The team will reach out to you once you send a PR.
 
 ## Top Contributors
 
