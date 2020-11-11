@@ -30,6 +30,17 @@
 <br>
 <br>
 
+## My Projects
+[Pick-A-Lot](https://github.com/riturajjain2000/Pick-A-Lot)
+[Road-A-Mender](https://github.com/riturajjain2000/Road-A-Mender)
+[Check website as App](https://github.com/riturajjain2000/check-website-as-app)
+[Template Chat App]https://github.com/riturajjain2000/Chat-app-template)
+[Portfolio Website](https://riturajjain2000.github.io/)
+
+
+<br>
+<br>
+
 ## Connect
 <div align="center">
 <a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/">
@@ -68,7 +79,7 @@
 <br>  
 <br>  
 
-## 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
+## My Github Stats
 
 <a href="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
