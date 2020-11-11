@@ -31,11 +31,11 @@
 <br>
 
 ## My Projects
-[Pick-A-Lot](https://github.com/riturajjain2000/Pick-A-Lot)
-[Road-A-Mender](https://github.com/riturajjain2000/Road-A-Mender)
-[Check website as App](https://github.com/riturajjain2000/check-website-as-app)
-[Template Chat App]https://github.com/riturajjain2000/Chat-app-template)
-[Portfolio Website](https://riturajjain2000.github.io/)
+[Pick-A-Lot](https://github.com/riturajjain2000/Pick-A-Lot)<br>
+[Road-A-Mender](https://github.com/riturajjain2000/Road-A-Mender)<br>
+[Check website as App](https://github.com/riturajjain2000/check-website-as-app)<br>
+[Template Chat App](https://github.com/riturajjain2000/Chat-app-template)<br>
+[Portfolio Website](https://riturajjain2000.github.io/)<br>
 
 
 <br>
