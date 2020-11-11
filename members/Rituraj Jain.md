@@ -3,7 +3,7 @@
 <br>  
 <br>  
 
-## 𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+## My Tech Stack
 
 ![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=Android&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=ffffff)
@@ -68,7 +68,7 @@
 <br>  
 <br>  
 
-##𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
+## 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
 <a href="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
