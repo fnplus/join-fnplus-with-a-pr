@@ -1,17 +1,15 @@
-## Hello,<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App Dev.📱 and Game Dev.🎮 from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
-
+## Hello,<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App Developer📱 and Game Developer🎮 from India !
 
 <br>  
 <br>  
 
-
-
-## <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" width="30px">🐱‍💻𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+## 𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
 ![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=Android&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=ffffff)
+<br>
+<br>
 ![Unity](https://img.shields.io/badge/-Unity-grey?style=for-the-badge&logo=Unity&logoColor=ffffff)
-
 
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=ffffff)
 ![mySQL](https://img.shields.io/badge/-mySQL-black?style=for-the-badge&logo=mySQL&logoColor=ffffff)
@@ -32,6 +30,7 @@
 <br>
 <br>
 
+## Connect
 <div align="center">
 <a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/">
   <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -68,30 +67,9 @@
 
 <br>  
 <br>  
-<div align="center">
 
-## Show some ❤️ , Go star some of my repos!!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px">
-</div>
-<br>
-<br>
+##𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
-
-
-
-
-
-
-
-<img align="right" src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-<br>  
-
-
-## 📈 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<br>
-<br>  
 <a href="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
 </a>
