@@ -1,4 +1,4 @@
-#Suraj Verma 
+# Suraj Verma 
 I am a sophomore year CS student from VIT Vellore. Cuurently a MERN stack developer & ML enthusiast.
 
 ## Academics
