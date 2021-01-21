@@ -16,4 +16,4 @@ JavaScript, Html, Css, Java, C, C++ and many other FrameWorks.
 * [Robo Friends](https://github.com/Davekibh/robofriends)
 * [Chat App](https://github.com/Davekibh/Chat-app)
 * and for more projects do visit my Github profile :👇
-  https://github.com/Davekibh
+  [Dave Bhandari](https://github.com/Davekibh)
