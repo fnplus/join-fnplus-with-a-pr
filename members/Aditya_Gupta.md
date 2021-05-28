@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Gupta wave 
+# Hi there, I'm Aditya Gupta
 ## About me
 Passion and diligence are two traits that I believe most reflect me as an individual
 
