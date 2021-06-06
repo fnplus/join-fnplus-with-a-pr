@@ -41,7 +41,7 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 
 If you are interested in learning about something, you can also submit a Request for Proposal (RFP). This helps identify areas where the community as a whole would like to learn about specific topics. This makes it easy for other individuals who have expertise in the topic to submit a proposal that might address this need.
 
-The [Proposals](https://github.com/fnplus/join-fnplus-with-a-prs/blob/master/PROPOSALS.md) page also has information on how to submit RFPs.
+The [Proposals](https://github.com/fnplus/join-fnplus-with-a-pr/blob/master/PROPOSALS.md) page also has information on how to submit RFPs.
 
 ## Volunteering & Sponsorship
 
