@@ -4,18 +4,18 @@ Our sole mission is to help you recognize your potential :muscle: and purpose :m
 
 Some of our core beliefs are:
 
-* Help people to reach their full potential
-* To create a safe space for free exchange of ideas
-* Reduce the time spend on searching and increase the time spend on learning, discussing and socializing
-* To create a community where everyone can contribute irrespective of their location in the world
+* Assist others in realizing their highest potential.
+* To provide a safe environment for the free exchange of ideas.
+* Reduce the amount of time you spend seeking and instead spend more time studying, talking, and interacting.
+* To build a community where everybody, regardless of where they live on the planet, may participate.
 
 This repo have been seen by [![HitCount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffnplus%2Fjoin-fnplus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)people!
 
 ## How do I join?
 
-We’re starting with a small, but growing, group of contributors to ensure a good experience. If you’d like to join, let us know, and we’ll make sure to include you :)
+To guarantee a positive experience, we're beginning with a small but increasing number of contributors. If you'd like to participate, please let us know and we'll make sure you're included :)
 
-One possible way is to tell us through an issue here. Contributing to one of our missions is the best way to express your interest. You may, also, email us or get in touch at Telegram. The list is endless. 🚀
+One such method is to inform us through a problem. The greatest way to demonstrate your interest is to donate to one of our missions. You may also send us an email or use Telegram to communicate with us. It goes on and on. 🚀
 
 ## Instructions
 
