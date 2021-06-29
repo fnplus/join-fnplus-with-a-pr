@@ -1,6 +1,6 @@
 # Manan Bedi
 
-_?? Machine Learning Intern at Virtue Veda Technologies, Canada ???_
+Machine Learning Intern at Virtue Veda Technologies, Canada
 
 ## About Me
 I am Manan Bedi. I am skilled in ML, DL and Backend dev using Flask. I am currently a ML Collaborator at Omdena Pennsylvania.
