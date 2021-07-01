@@ -50,7 +50,7 @@ The [Proposals](https://github.com/fnplus/join-fnplus-with-a-pr/blob/master/PROP
 
 ## Contact
 
-One can get in touch with us by opening an issue, sending us an [email](mailto:hellofnplus@gmail.com) or discussing on our Slack forum. The team will reach out to you once you send a PR.
+One can get in touch with us by opening an issue, sending us an [email](mailto:hellofnplus@gmail.com) or discussing on our Telegram group. The team will reach out to you once you send a PR.
 
 ## Top Contributors
 
