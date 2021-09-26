@@ -27,10 +27,11 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 <p align="center">
 <a href="https://www.java.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a><img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/python.png" alt="Python" width="48" height="48"/>&nbsp
+<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/python.png" alt="Python" width="48" height="48"/>&nbsp
 <img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/cpp.png" alt="C++" width="40" height="48"/>&nbsp
 <img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/html.svg" alt="HTML" width="48" height="48"/>&nbsp
-<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/vscode.png" alt="vscode" width="48" height="48"/>&nbsp; </p>
+<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/vscode.png" alt="vscode" width="48" height="48"/>&nbsp;
+<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/js.png" alt="HTML" width="48" height="48"/>&nbsp</p>
 <h1 align="center"> Frameworks 🖼️ </h2>
 <p align="center">
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /></p>
