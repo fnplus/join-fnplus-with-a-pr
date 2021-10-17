@@ -33,7 +33,7 @@
 
 <h3 align="center">
 <img src="https://img.shields.io/badge/neovim%20-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/vscode%0-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF">
 </h3>
 
 <h4 align="center">Programming Languages</h4>
@@ -79,4 +79,3 @@ Resource                                                  | Description
   
 <h3 align="center">🏆 Trophies 🏆</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=frenzyexists&title=Stars,Followers,Commit,PR,Repo,MultiLanguage&theme=nord&no-frame=true&margin-w=20"></p>
-2
