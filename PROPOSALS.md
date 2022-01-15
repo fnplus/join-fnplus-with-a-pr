@@ -36,7 +36,7 @@ To submit a RFP, open an [issue](https://github.com/fnplus/chennai-go-jams/p/iss
 
 ### Title
 
-The title of the RFP must follow the format:
+**The title of the RFP must follow the format**
 
 ```
 RFP: <Level>: <Format>: <YourTitle>
