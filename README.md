@@ -51,7 +51,3 @@ The [Proposals](https://github.com/fnplus/join-fnplus-with-a-pr/blob/master/PROP
 ## Contact
 
 One can get in touch with us by opening an issue, sending us an [email](mailto:hellofnplus@gmail.com) or discussing on our Telegram group. The team will reach out to you once you send a PR.
-
-## Top Contributors
-
-[![](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/images/0)](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/links/0)[![](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/images/1)](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/links/1)[![](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/images/2)](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/links/2)[![](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/images/3)](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/links/3)[![](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/images/4)](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/links/4)[![](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/images/5)](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/links/5)[![](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/images/6)](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/links/6)[![](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/images/7)](https://sourcerer.io/fame/xlogix/fnplus/join-fnplus-with-a-pr/links/7)
