@@ -1,4 +1,4 @@
-### Hey guys, I'm Sandipan 👋
+### Hey guys, I'm Saurav 👋
 
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on frontend Projects
