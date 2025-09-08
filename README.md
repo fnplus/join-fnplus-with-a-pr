@@ -1,4 +1,4 @@
-# fn+geeks community
+# fn+geeks Community
 
 Our sole mission is to help you recognize your potential :muscle: and purpose :musical_note:. We believe that everyone has a gift in himself or herself but are not able to see it. We will help you in every possible way. Just ask us! :heart_eyes: 
 
@@ -9,7 +9,8 @@ Some of our core beliefs are:
 * Reduce the amount of time you spend seeking and instead spend more time studying, talking, and interacting.
 * To build a community where everybody, regardless of where they live on the planet, may participate.
 
-This repo have been seen by [![HitCount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffnplus%2Fjoin-fnplus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)people!
+This repository has been viewed by:  
+[![HitCount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffnplus%2Fjoin-fnplus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## How do I join?
 
